@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Sarnika!!
 
 🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
-💡 Passionate about building intelligent systems that bridge data and real-world applications  
-🌱 Currently exploring AI, NLP, and Real-time Computer Vision  
+💡 Turning data into real‑time insights and intelligent apps  
+🌱 Currently exploring: homomorphic encryption for privacy‑preserving AI, generative language models, real‑time computer vision
 
 ## 🧠 Skill Set
 

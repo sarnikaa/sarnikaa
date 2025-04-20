@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Poorvika C!
+# 👋 Hey there, I’m Sarnika!!
 
 🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
 💡 Passionate about building intelligent systems that bridge data and real-world applications  
@@ -21,17 +21,10 @@
 
 ---
 
-## 🏅 Activities & Leadership
-
-- 🎓 Class Representative – MSc Data Science, PSG Tech  
-- 📱 Social Media Lead – Rotaract Club, PSG Tech  
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poorvikagowda/)  
-📧 Email: [poorvikagowda357@gmail.com](mailto:poorvikagowda357@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarnika-sanjiv-75a604290/)  
+📧 Email: [sarnikasanjiv@gmail.com](mailto:sarnikasanjiv@gmail.com)
 
 ---
 

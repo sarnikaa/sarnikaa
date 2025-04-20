@@ -1,24 +1,39 @@
-<p align="center">
-  <img src="https://your‑cdn.com/banner.svg" alt="Sarnika's Banner" width="800"/>
-</p>
+# 👋 Hey there, I’m Poorvika C!
 
-<h1 align="left">👋 Hi, I'm Sarnika</h1>
-<p align="left">3rd Year Integrated M.Sc Data Science @ PSG Tech • Building privacy‑preserving ML & real‑time CV</p>
+🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
+💡 Passionate about building intelligent systems that bridge data and real-world applications  
+🌱 Currently exploring AI, NLP, and Real-time Computer Vision  
 
-### 🛠️ Skill Set
+## 🧠 Skill Set
 
-<img align="left" alt="Python"   width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="C++"      width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Streamlit"  width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" />
-<img align="left" alt="OpenCV"     width="40px" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/opencv_logo.png" />
-<br clear="both"/>
+### Languages
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
-<p align="left">
-  <a href="mailto:sarnika@example.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/sarnikaa">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/sarnikaa">🐦 Twitter</a>
-</p>
+### Tools & Frameworks
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Power BI](https://img.shields.io/badge/-PowerBI-333?style=flat&logo=powerbi)
+![Gephi](https://img.shields.io/badge/-Gephi-333?style=flat&logo=gephi)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+
+---
+
+## 🏅 Activities & Leadership
+
+- 🎓 Class Representative – MSc Data Science, PSG Tech  
+- 📱 Social Media Lead – Rotaract Club, PSG Tech  
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poorvikagowda/)  
+📧 Email: [poorvikagowda357@gmail.com](mailto:poorvikagowda357@gmail.com)
+
+---
 
 <!--
 **sarnikaa/sarnikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

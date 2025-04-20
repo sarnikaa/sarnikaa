@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
+
 
 ### Tools & Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
@@ -18,6 +20,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333)
 
 ---
 

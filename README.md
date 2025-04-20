@@ -23,6 +23,14 @@
 
 ---
 
+## 📊 Most Used Languages
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnikaa&layout=compact&theme=light&title=Most%20Used%20Languages" 
+    alt="Most Used Languages" 
+  />
+</p>
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarnika-sanjiv-75a604290/)  

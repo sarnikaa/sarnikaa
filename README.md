@@ -11,6 +11,7 @@
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
 
 ### Tools & Frameworks

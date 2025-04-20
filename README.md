@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Sarnika!!
+# 👋 Hey there, I’m Sarnika!
 
 🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
 💡 Turning data into real‑time insights and intelligent apps  

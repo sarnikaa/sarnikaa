@@ -24,7 +24,7 @@
 ---
 
 ## 📊 Most Used Languages
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnikaa&layout=compact&theme=light&title=Most%20Used%20Languages" 
     alt="Most Used Languages" 

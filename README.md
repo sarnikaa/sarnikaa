@@ -2,14 +2,8 @@
   <img src="https://your‑cdn.com/banner.svg" alt="Sarnika's Banner" width="800"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Sarnika</h1>
-<p align="center">3rd Year Integrated M.Sc Data Science @ PSG Tech • Building privacy‑preserving ML & real‑time CV</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarnikaa&label=Profile%20views" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/sarnikaa?label=Followers&style=social" alt="GitHub followers"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarnikaa&theme=dark" alt="Streak stats"/>
-</p>
+<h1 align="left">👋 Hi, I'm Sarnika</h1>
+<p align="left">3rd Year Integrated M.Sc Data Science @ PSG Tech • Building privacy‑preserving ML & real‑time CV</p>
 
 ### 🛠️ Skill Set
 
@@ -20,7 +14,7 @@
 <img align="left" alt="OpenCV"     width="40px" src="https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/opencv_logo.png" />
 <br clear="both"/>
 
-<p align="center">
+<p align="left">
   <a href="mailto:sarnika@example.com">✉️ Email</a> •
   <a href="https://linkedin.com/in/sarnikaa">🔗 LinkedIn</a> •
   <a href="https://twitter.com/sarnikaa">🐦 Twitter</a>
